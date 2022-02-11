@@ -4,9 +4,19 @@
         <title>The NENmSIS project Blog</title>
         <link>https://NENmSIS.github.io/blog</link>
         <description>The NENmSIS project Blog</description>
-        <lastBuildDate>Sat, 11 Dec 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Fyle-system permissions]]></title>
+            <link>https://NENmSIS.github.io/blog/Fyle-system permissions</link>
+            <guid>Fyle-system permissions</guid>
+            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is an interesting topic to talk about with the aim of understanding the Unix permissions.]]></description>
+            <content:encoded><![CDATA[<p>This is an interesting topic to talk about with the aim of understanding the Unix permissions.</p><h2>Notation of traditional Unix permissions</h2><h2>Symbolic notation</h2><p>The most common form, as used by the following command, is symbolic notation. </p><pre><code>ls -l 
+</code></pre><p>The firs set represents the <em>user</em> class. The second set represents the <em>group</em> class. The third set represents the <em>others</em> class.
+Each of the three characters represent the read, write and execute permissions.</p><ul><li><em>r</em> if reading is permitted, - if is not</li><li><em>w</em> if writting is permitted, - if is not</li><li><em>x</em> if execution is permitted, - if is not</li></ul><p>Example: <strong>-rwxr-xr-x</strong>: a regular file whose user class has full permissions and whose group and others classes have only the read and execute permissions.</p><p>To represent the <strong><em>setuid</em></strong>, <strong><em>setgid</em></strong> and <strong><em>sticky</em></strong> attributes, the executable character ( x or -) is modified. Though these attributes affect the overall file, not only users in one class, the <strong><em>setuid</em></strong> attribute modifies the executable character in the triad for the user, the <strong><em>setgid</em></strong> attribute modifies the executable character in the triad for the group and the <strong><em>sticky</em></strong> attribure modifies the executable character in the triad for others. For the <strong><em>setuid</em></strong> or <strong><em>setgid</em></strong> attributes, in the first or second triad, the <em>x</em> becomes <em>s</em> and the - becomes <em>s</em>. For the <strong><em>sticky</em></strong> attribute, in the third triad, the <em>x</em> becomes <em>t</em> and the - becomes <em>T</em>.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Bienvenidos]]></title>
             <link>https://NENmSIS.github.io/blog/Bienvenidos</link>
