@@ -8,9 +8,9 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Fyle-system permissions]]></title>
-            <link>https://NENmSIS.github.io/blog/Fyle-system permissions</link>
-            <guid>Fyle-system permissions</guid>
+            <title><![CDATA[File-system permissions]]></title>
+            <link>https://NENmSIS.github.io/blog/File-system permissions</link>
+            <guid>File-system permissions</guid>
             <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[This is an interesting topic to talk about with the aim of understanding the Unix permissions.]]></description>
             <content:encoded><![CDATA[<p>This is an interesting topic to talk about with the aim of understanding the Unix permissions.</p><h2>Notation of traditional Unix permissions</h2><h2>Symbolic notation</h2><p>The most common form, as used by the following command, is symbolic notation. </p><pre><code>ls -l 
@@ -23,7 +23,7 @@ Each of the three characters represent the read, write and execute permissions.<
             <guid>Bienvenidos</guid>
             <pubDate>Sat, 11 Dec 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Introducción a la web]]></description>
-            <content:encoded><![CDATA[<h2>Introducción a la web</h2><p>Si estáis leyendo este post, es porque la web ya se ha publicado y el proyecto acaba de empezar. Desde este momento, todos los artículos que se suban serán parte del proyecto personal de ciberseguridad, economía e idiomas que voy a desarrollar.</p><p>Este proyecto nace de la necesidad de documentar el progreso y los conocimientos aprendidos con el objetivo de favorecer el desarrollo de aquellas personas que puedan encontrarse en la misma situación. A su vez, una vez quede documentada la información, su acceso reiterado se simplifica de manera significativa, permitiendo aumentar la velocidad de aprendizaje y disminuir los errores. Además, toda aquella información adicional relativa a distintos artículos creados que mejore la calidad de la información expuesta, será añadida con posterioridad. </p><p>Hasta que el proyecto vaya creciendo y se habiliten otros medios de comunicación, os podéis poner en contacto conmigo mediante correo electrónico y telegram.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<h2>Introducción a la web</h2><p>Si estáis leyendo este post, es porque la web ya se ha publicado y el proyecto acaba de empezar. Desde este momento, todos los artículos que se suban serán parte del proyecto personal de ciberseguridad, economía e idiomas que voy a desarrollar.</p><p>Este proyecto nace de la necesidad de documentar el progreso y los conocimientos aprendidos con el objetivo de favorecer el desarrollo de aquellas personas que puedan encontrarse en la misma situación. A su vez, una vez quede documentada la información, su acceso reiterado se simplifica de manera significativa, permitiendo aumentar la velocidad de aprendizaje y disminuir los errores. Además, toda aquella información adicional relativa a distintos artículos creados que mejore la calidad de la información expuesta, será añadida con posterioridad.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>

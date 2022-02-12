@@ -8,9 +8,9 @@
     <subtitle>The NENmSIS project Blog</subtitle>
     <icon>https://NENmSIS.github.io/img/avatargithub.jpg</icon>
     <entry>
-        <title type="html"><![CDATA[Fyle-system permissions]]></title>
-        <id>Fyle-system permissions</id>
-        <link href="https://NENmSIS.github.io/blog/Fyle-system permissions"/>
+        <title type="html"><![CDATA[File-system permissions]]></title>
+        <id>File-system permissions</id>
+        <link href="https://NENmSIS.github.io/blog/File-system permissions"/>
         <updated>2022-01-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is an interesting topic to talk about with the aim of understanding the Unix permissions.]]></summary>
         <content type="html"><![CDATA[<p>This is an interesting topic to talk about with the aim of understanding the Unix permissions.</p><h2>Notation of traditional Unix permissions</h2><h2>Symbolic notation</h2><p>The most common form, as used by the following command, is symbolic notation. </p><pre><code>ls -l 
@@ -27,7 +27,7 @@ Each of the three characters represent the read, write and execute permissions.<
         <link href="https://NENmSIS.github.io/blog/Bienvenidos"/>
         <updated>2021-12-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Introducción a la web]]></summary>
-        <content type="html"><![CDATA[<h2>Introducción a la web</h2><p>Si estáis leyendo este post, es porque la web ya se ha publicado y el proyecto acaba de empezar. Desde este momento, todos los artículos que se suban serán parte del proyecto personal de ciberseguridad, economía e idiomas que voy a desarrollar.</p><p>Este proyecto nace de la necesidad de documentar el progreso y los conocimientos aprendidos con el objetivo de favorecer el desarrollo de aquellas personas que puedan encontrarse en la misma situación. A su vez, una vez quede documentada la información, su acceso reiterado se simplifica de manera significativa, permitiendo aumentar la velocidad de aprendizaje y disminuir los errores. Además, toda aquella información adicional relativa a distintos artículos creados que mejore la calidad de la información expuesta, será añadida con posterioridad. </p><p>Hasta que el proyecto vaya creciendo y se habiliten otros medios de comunicación, os podéis poner en contacto conmigo mediante correo electrónico y telegram.</p>]]></content>
+        <content type="html"><![CDATA[<h2>Introducción a la web</h2><p>Si estáis leyendo este post, es porque la web ya se ha publicado y el proyecto acaba de empezar. Desde este momento, todos los artículos que se suban serán parte del proyecto personal de ciberseguridad, economía e idiomas que voy a desarrollar.</p><p>Este proyecto nace de la necesidad de documentar el progreso y los conocimientos aprendidos con el objetivo de favorecer el desarrollo de aquellas personas que puedan encontrarse en la misma situación. A su vez, una vez quede documentada la información, su acceso reiterado se simplifica de manera significativa, permitiendo aumentar la velocidad de aprendizaje y disminuir los errores. Además, toda aquella información adicional relativa a distintos artículos creados que mejore la calidad de la información expuesta, será añadida con posterioridad.</p>]]></content>
         <author>
             <name>NENmSIS</name>
             <uri>https://NENmSIS.github.io</uri>
