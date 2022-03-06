@@ -4,9 +4,17 @@
         <title>The NENmSIS project Blog</title>
         <link>https://NENmSIS.github.io/blog</link>
         <description>The NENmSIS project Blog</description>
-        <lastBuildDate>Tue, 11 Jan 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Vulnerability Research]]></title>
+            <link>https://NENmSIS.github.io/blog/Vulnerability Research</link>
+            <guid>Vulnerability Research</guid>
+            <pubDate>Sun, 06 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Categories of vulnerabilities]]></description>
+            <content:encoded><![CDATA[<h3>Categories of vulnerabilities</h3><ul><li>Operating System: found within Operating Systems (OSs).</li><li>(Mis)Configuration-based: incorrectly configured application or service.</li><li>Weak or Default Credentials: Applications and services that have an element of authentication will come with default credentials when installed.</li><li>Application Logic: the result of poorly designed applications. </li><li>Human-Factor: vulnerabilities that leverage human behaviour.</li></ul><h3>Scoring vulnerabilities</h3><ul><li>Common Vulnerability Scoring System (CVSS)</li><li>Vulnerability Priority Rating (VPR)</li></ul><h3>Vulnerability databases</h3><ul><li><a href="https://nvd.nist.gov/vuln/full-listing">NVD</a></li><li><a href="https://www.exploit-db.com/">Exploit Database</a></li></ul><h3>Finding manual exploits</h3><ul><li><a href="https://www.rapid7.com/db/">Rapid7</a></li><li><a href="https://github.com/">Github</a></li><li><strong>searchsploit</strong> on kali, offline</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[File-system permissions]]></title>
             <link>https://NENmSIS.github.io/blog/File-system permissions</link>

@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NENmSIS.github.io/blog</id>
     <title>The NENmSIS project Blog</title>
-    <updated>2022-01-11T00:00:00.000Z</updated>
+    <updated>2022-03-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NENmSIS.github.io/blog"/>
     <subtitle>The NENmSIS project Blog</subtitle>
     <icon>https://NENmSIS.github.io/img/avatargithub.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[Vulnerability Research]]></title>
+        <id>Vulnerability Research</id>
+        <link href="https://NENmSIS.github.io/blog/Vulnerability Research"/>
+        <updated>2022-03-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Categories of vulnerabilities]]></summary>
+        <content type="html"><![CDATA[<h3>Categories of vulnerabilities</h3><ul><li>Operating System: found within Operating Systems (OSs).</li><li>(Mis)Configuration-based: incorrectly configured application or service.</li><li>Weak or Default Credentials: Applications and services that have an element of authentication will come with default credentials when installed.</li><li>Application Logic: the result of poorly designed applications. </li><li>Human-Factor: vulnerabilities that leverage human behaviour.</li></ul><h3>Scoring vulnerabilities</h3><ul><li>Common Vulnerability Scoring System (CVSS)</li><li>Vulnerability Priority Rating (VPR)</li></ul><h3>Vulnerability databases</h3><ul><li><a href="https://nvd.nist.gov/vuln/full-listing">NVD</a></li><li><a href="https://www.exploit-db.com/">Exploit Database</a></li></ul><h3>Finding manual exploits</h3><ul><li><a href="https://www.rapid7.com/db/">Rapid7</a></li><li><a href="https://github.com/">Github</a></li><li><strong>searchsploit</strong> on kali, offline</li></ul>]]></content>
+        <author>
+            <name>NENmSIS</name>
+            <uri>https://NENmSIS.github.io</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[File-system permissions]]></title>
         <id>File-system permissions</id>
