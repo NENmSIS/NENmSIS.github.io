@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Vulnerability Research","permalink":"/blog/Vulnerability Research"},{"title":"File-system permissions","permalink":"/blog/File-system permissions"},{"title":"Bienvenidos","permalink":"/blog/Bienvenidos"}]}')}}]);
